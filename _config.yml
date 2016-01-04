@@ -1,7 +1,7 @@
 name: Cloudfox
 favicon: null
-layout_spectrum: 0.04476823634468019
-typography_spectrum: 0.9652355823200196
+layout_spectrum: 0.5373
+typography_spectrum: 0.61798
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.5729068093933165
-  lightness: 0.9894894019234926
-  saturation: 0.05010918923653662
-  rhythmicContrast: 0.6546024214476347
+  brandStrength: 0.1875
+  lightness: 0.5625
+  saturation: 0.25
+  rhythmicContrast: 0.75
 purpose: []
