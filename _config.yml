@@ -1,7 +1,7 @@
 name: Cloudfox
 favicon: null
-layout_spectrum: 0.5373
-typography_spectrum: 0.61798
+layout_spectrum: 0.94642
+typography_spectrum: 0.7488
 title: Implement Integrate Innovate
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.125
-  lightness: 0.5625
-  saturation: 0.25
-  rhythmicContrast: 0.75
+  brandStrength: 0.75
+  lightness: 0.75
+  saturation: 0.5
+  rhythmicContrast: 0.25
 purpose: []
