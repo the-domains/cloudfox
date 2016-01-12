@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Cloudfox]]></title>
-        <description><![CDATA[Cloudfox]]></description>
+        <title><![CDATA[Implement Integrate Innovate]]></title>
+        <description><![CDATA[Implement Integrate Innovate]]></description>
         <link>https://thegrid.ai/cloudfox/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jan 2016 18:03:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jan 2016 21:27:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cloudfox/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Plans for Old Oak Common homes revealed]]></title>
+            <description><![CDATA[<article><h1>Plans for Old Oak Common homes revealed</h1><p>RESIDENTIAL landlord Essential Living has submitted plans to build 500 homes on the site of a former perfume factory, in what will be the first major scheme inside the Old Oak Common regeneration area.</p><img src="http://www.cityam.com/sites/default/files/styles/node_article_blog_main_image_scale_w400/public/main/articles/The%20Perfume%20Factory.jpg"></article>]]></description>
+            <link>https://thegrid.ai/cloudfox/plans-for-old-oak-common-homes-revealed/index.html</link>
+            <guid isPermaLink="false">b94f0e80-0178-4be2-b493-d781c2a35a78</guid>
+            <pubDate>Tue, 12 Jan 2016 21:27:32 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Implement • Integrate • Innovate]]></title>
-            <description><![CDATA[<article><h1>Implement • Integrate • Innovate</h1><p>Delivering Accounting, Reservation and Operational software to the Property Sector</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/082daf943bebeaa878b3d77cf9dd6a6c5dd7543c.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Implement • Integrate • Innovate</h1><p>Delivering Accounting, Reservation and Operational software to the Property Sector</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cd674ad12c574c6cfb566a2ef8f3a70975d08e3a.jpg"></article>]]></description>
             <link>https://thegrid.ai/cloudfox/implement-integrate-innovate/index.html</link>
             <guid isPermaLink="false">1d85599e-1c53-4139-b9cb-4288c68960ab</guid>
             <pubDate>Mon, 04 Jan 2016 18:03:02 GMT</pubDate>
